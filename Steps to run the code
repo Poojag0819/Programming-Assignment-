@@ -1,0 +1,15 @@
+Steps to run the code as follows:-
+ 1.Save the code
+ 
+ 2.Click on the "Run" button, Compiler dialog box will open.
+ 
+ 3.Give the Number of employees.
+ 
+ 4.For Example: if the number of employees is 4,
+ The goodies that are selected for distribution will be shown on the screen.
+ the difference between the chossen goodie with highest price and the lowest price will be printed. i.e: 3121.
+ 
+ 5.Now click on the Run button to rerun the program for another input and output.
+ 
+ 6. Same as 4th step, we can give any number of employees from 1 to 10, corressponding difference between there highest and lowest price will be printed accordingly.
+ 
